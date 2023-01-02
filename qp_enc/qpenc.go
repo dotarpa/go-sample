@@ -1,6 +1,9 @@
 // https://github.com/prometheus/alertmanager/blob/main/notify/email/email.go
 // Just looking into mime/quotedprintable.
 
+// The Go Playground
+// https://go.dev/play/p/W7a7tBaRNIU
+
 package main
 
 import (
